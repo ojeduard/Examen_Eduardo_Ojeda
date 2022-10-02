@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DEPARTMENTO>
+    <department codigo="AFZ">
+        <nombre>Limpieza</nombre>
+        <auditado>true</auditado>
+        <presupuesto>500.0</presupuesto>
+    </department>
+</DEPARTMENTO>
